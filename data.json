@@ -1,7 +1,7 @@
 {
   "schema": "activity-budget-dashboard-data",
   "version": 1,
-  "exportedAt": "2026-07-08T08:29:48.269Z",
+  "exportedAt": "2026-07-08T08:31:29.558Z",
   "selectedMonth": "2026-07",
   "state": {
     "version": 4,
@@ -141,24 +141,6 @@
           "note": "",
           "createdAt": 1783493708500,
           "updatedAt": 1783494412891
-        },
-        {
-          "id": "mrbthhj03fmtuk",
-          "date": "2026-07-08",
-          "group": "보상팀",
-          "description": "test",
-          "amount": 20000,
-          "category": "조활비",
-          "systemGroup": "보상팀",
-          "allocations": {
-            "보상팀": 0,
-            "평가팀": 0,
-            "실장님": 0
-          },
-          "receiptRequired": false,
-          "note": "",
-          "createdAt": 1783499385852,
-          "updatedAt": 1783499385852
         }
       ]
     },
@@ -181,6 +163,6 @@
         }
       }
     },
-    "lastUpdatedAt": 1783499385855
+    "lastUpdatedAt": 1783499488730
   }
 }
